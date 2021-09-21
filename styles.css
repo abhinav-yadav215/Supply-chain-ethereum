@@ -1,0 +1,19 @@
+table,thead{
+    border: 1px solid black;
+    border-collapse:collapse;
+    background-color: tomato;
+}
+
+div{
+    background-color:lightgray;
+}
+h2{
+    background-color: lawngreen;
+}
+h4{
+    background-color: red;
+}
+
+h3{
+    background-color: blue;
+}
