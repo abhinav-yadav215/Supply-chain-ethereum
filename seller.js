@@ -1,4 +1,3 @@
-
 var address = "0xAa77372B0ac4b93976375252E4b03a688be4680e";
 
 web3 = new Web3(web3.currentProvider);
